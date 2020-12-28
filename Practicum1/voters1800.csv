@@ -1,0 +1,933 @@
+CitizenID,Age,State,Interest1,Interest2,Interest3
+0,44,Massachusets,Farming,Alcohol & Tobacco,French Revolution
+1,49,Virginia,Economy,Alcohol & Tobacco,Democracy
+2,36,Virginia,Religion,Economy,Farming
+3,33,Massachusets,Family,French Revolution,Alcohol & Tobacco
+4,52,Massachusets,Democracy,Alcohol & Tobacco,Religion
+5,62,South Carolina,Alcohol & Tobacco,French Revolution,Religion
+6,79,Virginia,Alcohol & Tobacco,French Revolution,Family
+7,58,South Carolina,Family,Democracy,Economy
+8,50,Massachusets,Economy,Democracy,French Revolution
+9,45,South Carolina,Farming,Economy,Alcohol & Tobacco
+10,39,Virginia,Farming,Religion,Economy
+11,46,New York,Family,Democracy,Farming
+12,39,South Carolina,Religion,Democracy,Farming
+13,22,New York,French Revolution,Religion,Family
+14,67,South Carolina,Economy,Farming,Democracy
+15,75,New York,Economy,Religion,Farming
+16,34,New York,Farming,Alcohol & Tobacco,Economy
+17,58,New York,Farming,Religion,Alcohol & Tobacco
+18,27,Virginia,Family,Religion,Alcohol & Tobacco
+19,22,New York,Democracy,Family,Farming
+20,57,South Carolina,Religion,Economy,Democracy
+21,50,Virginia,Family,Alcohol & Tobacco,Religion
+22,80,Virginia,Economy,Family,Farming
+23,20,New York,Family,Democracy,Religion
+24,55,Massachusets,Religion,Alcohol & Tobacco,Economy
+25,29,New York,Religion,Democracy,Alcohol & Tobacco
+26,55,Virginia,Democracy,Alcohol & Tobacco,French Revolution
+27,76,New York,French Revolution,Religion,Economy
+28,69,New York,Democracy,Religion,Family
+29,36,South Carolina,Farming,Democracy,Family
+30,53,Virginia,Alcohol & Tobacco,Democracy,French Revolution
+31,65,South Carolina,Economy,Family,French Revolution
+32,20,Virginia,Religion,Democracy,Economy
+33,61,New York,Democracy,Alcohol & Tobacco,Religion
+34,49,South Carolina,Economy,Farming,Alcohol & Tobacco
+35,49,New York,Religion,Economy,French Revolution
+36,55,Virginia,Democracy,Religion,Family
+37,18,South Carolina,Alcohol & Tobacco,Farming,Religion
+38,27,South Carolina,Economy,Democracy,French Revolution
+39,46,Virginia,French Revolution,Economy,Democracy
+40,19,Massachusets,Religion,Farming,Democracy
+41,35,New York,Religion,Alcohol & Tobacco,Democracy
+42,52,Virginia,French Revolution,Religion,Farming
+43,26,Massachusets,Alcohol & Tobacco,French Revolution,Economy
+44,35,Virginia,Farming,Democracy,Religion
+45,60,Massachusets,Alcohol & Tobacco,Democracy,Farming
+46,70,Virginia,French Revolution,Alcohol & Tobacco,Family
+47,58,Massachusets,Family,Religion,French Revolution
+48,47,Massachusets,Family,Alcohol & Tobacco,Religion
+49,55,Virginia,Farming,Democracy,Family
+50,53,Massachusets,Alcohol & Tobacco,Family,Economy
+51,63,Massachusets,Farming,Economy,Democracy
+52,57,Virginia,Farming,Family,Alcohol & Tobacco
+53,56,New York,Alcohol & Tobacco,Farming,Religion
+54,79,New York,Family,Economy,Alcohol & Tobacco
+55,32,Virginia,Religion,Democracy,Family
+56,43,Virginia,Farming,Democracy,French Revolution
+57,35,South Carolina,Democracy,Farming,French Revolution
+58,62,New York,Economy,Farming,French Revolution
+59,40,Virginia,Farming,Economy,Democracy
+60,36,New York,Family,Economy,French Revolution
+61,56,Virginia,Farming,Religion,Family
+62,24,South Carolina,Democracy,Religion,French Revolution
+63,23,South Carolina,Alcohol & Tobacco,Farming,Religion
+64,29,South Carolina,Family,Farming,Alcohol & Tobacco
+65,38,New York,Religion,Economy,Farming
+66,32,South Carolina,Religion,French Revolution,Democracy
+67,41,Virginia,Democracy,Family,Farming
+68,50,Massachusets,Democracy,Religion,Alcohol & Tobacco
+69,74,New York,Economy,Democracy,Religion
+70,50,Massachusets,French Revolution,Economy,Religion
+71,38,South Carolina,Democracy,Farming,Alcohol & Tobacco
+72,75,South Carolina,Economy,Democracy,Religion
+73,27,Massachusets,Alcohol & Tobacco,French Revolution,Religion
+74,35,Massachusets,Religion,Alcohol & Tobacco,Democracy
+75,39,Virginia,Family,Farming,Alcohol & Tobacco
+76,45,Massachusets,Family,Religion,Farming
+77,77,Massachusets,Economy,Alcohol & Tobacco,Farming
+78,26,Virginia,French Revolution,Family,Democracy
+79,43,New York,Economy,Family,Religion
+80,53,New York,Farming,Religion,Alcohol & Tobacco
+81,27,Virginia,Economy,Family,Democracy
+82,28,Virginia,Democracy,Family,Alcohol & Tobacco
+83,45,Massachusets,French Revolution,Democracy,Family
+84,72,Massachusets,Family,French Revolution,Religion
+85,37,Massachusets,Religion,French Revolution,Farming
+86,52,South Carolina,Democracy,French Revolution,Religion
+87,22,South Carolina,Alcohol & Tobacco,French Revolution,Religion
+88,25,South Carolina,Democracy,Family,Economy
+89,79,Massachusets,Family,Democracy,Religion
+90,45,New York,Farming,Alcohol & Tobacco,French Revolution
+91,43,Massachusets,Farming,Alcohol & Tobacco,Family
+92,53,New York,French Revolution,Economy,Alcohol & Tobacco
+93,66,Virginia,Economy,Farming,Alcohol & Tobacco
+94,50,Virginia,Religion,Democracy,Farming
+95,73,Virginia,Democracy,Farming,Alcohol & Tobacco
+96,78,Massachusets,Alcohol & Tobacco,Farming,Economy
+97,38,New York,Democracy,Religion,French Revolution
+98,79,Massachusets,Alcohol & Tobacco,Farming,Religion
+99,47,New York,Economy,Farming,Alcohol & Tobacco
+100,28,Virginia,French Revolution,Alcohol & Tobacco,Religion
+101,31,Massachusets,Farming,Religion,Alcohol & Tobacco
+102,79,Massachusets,Family,Democracy,Religion
+103,74,New York,Religion,Alcohol & Tobacco,Economy
+104,23,Virginia,Democracy,Religion,Family
+105,48,New York,Democracy,Religion,Family
+106,35,New York,Economy,French Revolution,Democracy
+107,68,Massachusets,Democracy,Religion,Economy
+108,27,Virginia,Family,Economy,Farming
+109,76,South Carolina,Democracy,Economy,Alcohol & Tobacco
+110,19,South Carolina,Farming,Religion,French Revolution
+111,24,Massachusets,Farming,Alcohol & Tobacco,Economy
+112,25,South Carolina,Alcohol & Tobacco,Family,Religion
+113,36,New York,Economy,Democracy,Farming
+114,67,New York,Religion,French Revolution,Family
+115,69,Virginia,Farming,Religion,French Revolution
+116,55,Massachusets,Alcohol & Tobacco,Democracy,Farming
+117,71,New York,Democracy,Religion,Economy
+118,47,New York,Farming,Economy,Family
+119,32,South Carolina,Religion,Family,Economy
+120,67,Virginia,Democracy,Family,Economy
+121,42,Virginia,Religion,Economy,Farming
+122,23,Virginia,French Revolution,Alcohol & Tobacco,Economy
+123,46,South Carolina,French Revolution,Farming,Alcohol & Tobacco
+124,54,New York,Economy,Democracy,Family
+125,66,New York,Family,Religion,Farming
+126,27,Virginia,French Revolution,Democracy,Economy
+127,33,South Carolina,Family,French Revolution,Democracy
+128,44,Virginia,French Revolution,Economy,Democracy
+129,47,New York,Family,French Revolution,Alcohol & Tobacco
+130,67,South Carolina,Alcohol & Tobacco,Religion,Farming
+131,73,Virginia,Alcohol & Tobacco,Family,Economy
+132,40,Virginia,Democracy,French Revolution,Family
+133,52,Virginia,Democracy,Alcohol & Tobacco,French Revolution
+134,31,Massachusets,Family,Alcohol & Tobacco,French Revolution
+135,34,New York,Economy,Alcohol & Tobacco,Democracy
+136,23,New York,Family,Alcohol & Tobacco,Religion
+137,61,New York,French Revolution,Family,Democracy
+138,67,Massachusets,Farming,Economy,Religion
+139,29,Massachusets,Economy,French Revolution,Family
+140,19,New York,Religion,Farming,Alcohol & Tobacco
+141,65,Virginia,Economy,Alcohol & Tobacco,French Revolution
+142,58,Massachusets,French Revolution,Economy,Farming
+143,37,Massachusets,Religion,Democracy,Alcohol & Tobacco
+144,45,Massachusets,Family,Religion,French Revolution
+145,22,South Carolina,Alcohol & Tobacco,Family,French Revolution
+146,46,South Carolina,Family,Religion,Economy
+147,78,Massachusets,Farming,Family,Democracy
+148,51,New York,Farming,Democracy,Economy
+149,53,South Carolina,French Revolution,Family,Farming
+150,73,Massachusets,French Revolution,Economy,Alcohol & Tobacco
+151,22,New York,French Revolution,Family,Democracy
+152,70,New York,Alcohol & Tobacco,Religion,Farming
+153,66,South Carolina,Religion,French Revolution,Alcohol & Tobacco
+154,41,New York,Family,Democracy,Religion
+155,29,South Carolina,Religion,Economy,Family
+156,24,Massachusets,Family,Alcohol & Tobacco,French Revolution
+157,76,New York,Democracy,Religion,French Revolution
+158,39,South Carolina,Economy,Farming,French Revolution
+159,23,Virginia,French Revolution,Religion,Economy
+160,49,South Carolina,Religion,Farming,French Revolution
+161,54,Massachusets,Religion,Alcohol & Tobacco,Family
+162,52,Massachusets,Family,Democracy,Economy
+163,28,Massachusets,Alcohol & Tobacco,French Revolution,Democracy
+164,62,South Carolina,Democracy,Religion,Economy
+165,35,Virginia,Economy,Farming,Family
+166,60,New York,Family,Religion,Farming
+167,44,Virginia,French Revolution,Democracy,Religion
+168,18,Virginia,Economy,Democracy,Religion
+169,33,New York,Farming,French Revolution,Religion
+170,28,Virginia,Family,Economy,Religion
+171,65,Virginia,Family,Economy,Alcohol & Tobacco
+172,37,Virginia,Economy,Democracy,Family
+173,67,Virginia,Democracy,Farming,Economy
+174,49,Massachusets,Religion,Family,Democracy
+175,57,Massachusets,Family,French Revolution,Alcohol & Tobacco
+176,26,South Carolina,Democracy,Family,Farming
+177,35,Virginia,Family,Democracy,Economy
+178,63,New York,Economy,Farming,Religion
+179,73,South Carolina,Economy,Family,French Revolution
+180,25,New York,Religion,Family,Democracy
+181,66,Massachusets,Farming,Alcohol & Tobacco,Family
+182,75,Virginia,Religion,Family,Farming
+183,64,Virginia,French Revolution,Family,Alcohol & Tobacco
+184,47,Massachusets,Family,Democracy,French Revolution
+185,63,New York,Economy,Democracy,Family
+186,41,New York,Farming,French Revolution,Religion
+187,61,South Carolina,Democracy,Alcohol & Tobacco,Economy
+188,73,New York,French Revolution,Alcohol & Tobacco,Economy
+189,79,Massachusets,Family,Alcohol & Tobacco,Democracy
+190,25,New York,Alcohol & Tobacco,French Revolution,Religion
+191,34,South Carolina,Farming,Religion,Democracy
+192,48,New York,Family,Alcohol & Tobacco,Farming
+193,70,Massachusets,Family,Farming,French Revolution
+194,23,Massachusets,Family,Alcohol & Tobacco,French Revolution
+195,75,Virginia,Farming,Economy,Democracy
+196,36,Virginia,Economy,Farming,Religion
+197,72,Massachusets,Farming,French Revolution,Religion
+198,27,Virginia,Family,Alcohol & Tobacco,Economy
+199,42,Virginia,Family,Farming,Democracy
+200,58,South Carolina,Alcohol & Tobacco,French Revolution,Farming
+201,64,Massachusets,Alcohol & Tobacco,Family,Economy
+202,47,South Carolina,Religion,Family,Democracy
+203,55,New York,Alcohol & Tobacco,Democracy,Religion
+204,43,New York,Farming,Religion,Alcohol & Tobacco
+205,64,New York,Farming,Democracy,Family
+206,45,South Carolina,Farming,Family,Democracy
+207,66,Massachusets,Farming,French Revolution,Religion
+208,25,Massachusets,Religion,Family,Economy
+209,39,New York,Alcohol & Tobacco,Religion,French Revolution
+210,27,Virginia,Economy,Alcohol & Tobacco,Farming
+211,78,New York,Democracy,Alcohol & Tobacco,Economy
+212,79,South Carolina,Family,French Revolution,Alcohol & Tobacco
+213,37,Massachusets,Family,Religion,Alcohol & Tobacco
+214,42,Virginia,Family,Economy,French Revolution
+215,62,Massachusets,French Revolution,Farming,Economy
+216,39,Virginia,Democracy,Alcohol & Tobacco,French Revolution
+217,19,New York,Farming,Economy,French Revolution
+218,24,New York,Economy,Family,French Revolution
+219,55,Virginia,French Revolution,Family,Alcohol & Tobacco
+220,47,South Carolina,Economy,Religion,French Revolution
+221,48,Virginia,Farming,Economy,French Revolution
+222,77,South Carolina,Religion,French Revolution,Alcohol & Tobacco
+223,72,Massachusets,Religion,Alcohol & Tobacco,French Revolution
+224,77,New York,Economy,Farming,Democracy
+225,27,Massachusets,Alcohol & Tobacco,Religion,French Revolution
+226,60,South Carolina,Democracy,French Revolution,Family
+227,28,Massachusets,Family,Alcohol & Tobacco,Farming
+228,52,Massachusets,Alcohol & Tobacco,Democracy,French Revolution
+229,56,New York,Religion,Farming,Economy
+230,51,Virginia,Alcohol & Tobacco,Religion,Family
+231,61,New York,Family,Economy,Alcohol & Tobacco
+232,48,New York,Farming,Religion,Economy
+233,57,Virginia,Farming,Economy,French Revolution
+234,64,South Carolina,French Revolution,Economy,Farming
+235,66,South Carolina,Democracy,Religion,Farming
+236,77,Massachusets,Alcohol & Tobacco,French Revolution,Democracy
+237,79,Virginia,Economy,Alcohol & Tobacco,Farming
+238,34,South Carolina,Religion,French Revolution,Economy
+239,40,Virginia,Family,Alcohol & Tobacco,Economy
+240,80,South Carolina,French Revolution,Democracy,Economy
+241,70,South Carolina,Family,Farming,French Revolution
+242,60,New York,Religion,Democracy,Economy
+243,62,Virginia,Religion,Alcohol & Tobacco,Family
+244,49,New York,Farming,Economy,Family
+245,24,South Carolina,Economy,Democracy,Religion
+246,74,Virginia,Farming,Family,Alcohol & Tobacco
+247,58,South Carolina,Farming,French Revolution,Religion
+248,56,New York,Alcohol & Tobacco,Religion,Farming
+249,71,South Carolina,Family,Religion,Farming
+250,61,New York,Farming,French Revolution,Family
+251,30,South Carolina,French Revolution,Farming,Family
+252,24,Virginia,Farming,Alcohol & Tobacco,French Revolution
+253,57,Massachusets,Farming,French Revolution,Religion
+254,52,South Carolina,Family,Economy,Alcohol & Tobacco
+255,48,South Carolina,Alcohol & Tobacco,Religion,Democracy
+256,22,Massachusets,Religion,Democracy,Economy
+257,61,Virginia,Democracy,Alcohol & Tobacco,Religion
+258,53,Virginia,Democracy,Religion,Farming
+259,36,South Carolina,Democracy,Farming,Economy
+260,50,South Carolina,Economy,Alcohol & Tobacco,Family
+261,53,South Carolina,Religion,French Revolution,Democracy
+262,20,Virginia,Democracy,Economy,French Revolution
+263,36,Virginia,Farming,Economy,Alcohol & Tobacco
+264,51,South Carolina,Family,Religion,French Revolution
+265,69,Virginia,French Revolution,Economy,Democracy
+266,59,New York,Alcohol & Tobacco,French Revolution,Farming
+267,33,Massachusets,Family,Alcohol & Tobacco,French Revolution
+268,63,Virginia,Farming,Democracy,French Revolution
+269,37,New York,Democracy,Religion,French Revolution
+270,48,Virginia,French Revolution,Alcohol & Tobacco,Democracy
+271,59,Massachusets,French Revolution,Farming,Religion
+272,70,South Carolina,Religion,Farming,Family
+273,35,Massachusets,Economy,French Revolution,Alcohol & Tobacco
+274,25,New York,Family,Economy,Farming
+275,79,Massachusets,French Revolution,Democracy,Alcohol & Tobacco
+276,72,Virginia,Farming,Family,French Revolution
+277,24,South Carolina,Farming,Alcohol & Tobacco,Economy
+278,78,Massachusets,French Revolution,Family,Farming
+279,38,Virginia,Family,Democracy,French Revolution
+280,26,South Carolina,Economy,Democracy,Family
+281,50,Virginia,Democracy,French Revolution,Religion
+282,50,Virginia,Economy,Alcohol & Tobacco,Democracy
+283,72,South Carolina,Economy,Farming,Democracy
+284,33,Massachusets,Religion,French Revolution,Family
+285,26,Massachusets,Alcohol & Tobacco,Democracy,Economy
+286,51,Virginia,French Revolution,Economy,Farming
+287,40,Massachusets,Economy,Family,French Revolution
+288,24,South Carolina,Religion,Family,Economy
+289,34,South Carolina,Economy,Religion,Farming
+290,22,Massachusets,Family,French Revolution,Economy
+291,58,New York,Democracy,Family,French Revolution
+292,23,Virginia,Religion,French Revolution,Democracy
+293,21,Virginia,Democracy,Alcohol & Tobacco,Religion
+294,74,Virginia,Alcohol & Tobacco,Religion,Economy
+295,68,South Carolina,Alcohol & Tobacco,Democracy,Farming
+296,57,South Carolina,Alcohol & Tobacco,Economy,Religion
+297,46,Massachusets,Alcohol & Tobacco,Farming,Economy
+298,25,New York,Family,Democracy,French Revolution
+299,32,New York,Religion,Economy,French Revolution
+300,48,New York,Family,French Revolution,Economy
+301,53,New York,French Revolution,Alcohol & Tobacco,Democracy
+302,54,Massachusets,Religion,Economy,Family
+303,76,South Carolina,Democracy,Alcohol & Tobacco,Religion
+304,79,New York,Democracy,Economy,Religion
+305,80,South Carolina,Religion,Economy,French Revolution
+306,43,New York,Farming,Economy,French Revolution
+307,37,Massachusets,Farming,Religion,French Revolution
+308,42,South Carolina,Farming,Democracy,Alcohol & Tobacco
+309,39,New York,Farming,Economy,French Revolution
+310,18,Massachusets,Democracy,Family,French Revolution
+311,19,South Carolina,Economy,Religion,Farming
+312,37,Virginia,Farming,French Revolution,Alcohol & Tobacco
+313,58,New York,Democracy,Economy,French Revolution
+314,65,South Carolina,Economy,Family,Religion
+315,65,South Carolina,Family,Religion,Economy
+316,35,Massachusets,French Revolution,Farming,Economy
+317,38,Massachusets,Farming,Economy,Alcohol & Tobacco
+318,25,Massachusets,Democracy,Alcohol & Tobacco,Family
+319,47,Massachusets,Religion,Alcohol & Tobacco,Family
+320,32,New York,Religion,Economy,Alcohol & Tobacco
+321,59,South Carolina,Economy,French Revolution,Alcohol & Tobacco
+322,79,New York,Farming,Religion,Economy
+323,78,South Carolina,French Revolution,Economy,Family
+324,29,Massachusets,Religion,Alcohol & Tobacco,French Revolution
+325,59,Virginia,Economy,Religion,French Revolution
+326,75,Massachusets,Democracy,French Revolution,Family
+327,75,Massachusets,Economy,Family,Alcohol & Tobacco
+328,28,South Carolina,Religion,Democracy,Family
+329,39,South Carolina,French Revolution,Farming,Alcohol & Tobacco
+330,66,New York,Family,French Revolution,Democracy
+331,26,Massachusets,Democracy,Family,Farming
+332,78,New York,Religion,Democracy,Family
+333,26,New York,Economy,Farming,Religion
+334,39,Virginia,French Revolution,Democracy,Religion
+335,30,Massachusets,Religion,Farming,Family
+336,60,New York,Religion,Democracy,Alcohol & Tobacco
+337,65,Massachusets,Alcohol & Tobacco,Farming,Family
+338,18,Massachusets,Alcohol & Tobacco,Democracy,Farming
+339,77,Virginia,Democracy,French Revolution,Farming
+340,45,New York,Religion,Economy,Alcohol & Tobacco
+341,48,New York,Farming,Family,Religion
+342,62,Massachusets,Farming,Religion,Economy
+343,75,South Carolina,Economy,Family,Farming
+344,33,South Carolina,French Revolution,Farming,Family
+345,59,New York,Family,Democracy,Alcohol & Tobacco
+346,63,South Carolina,Family,Religion,Democracy
+347,65,Virginia,Farming,Democracy,Economy
+348,28,Virginia,Democracy,Economy,Farming
+349,37,Virginia,Farming,Family,French Revolution
+350,35,New York,Farming,Religion,Democracy
+351,41,New York,Economy,Alcohol & Tobacco,Religion
+352,62,South Carolina,French Revolution,Religion,Farming
+353,78,Virginia,Farming,French Revolution,Democracy
+354,57,Massachusets,Economy,Farming,Alcohol & Tobacco
+355,39,New York,French Revolution,Economy,Religion
+356,41,New York,French Revolution,Economy,Religion
+357,76,New York,Alcohol & Tobacco,Religion,French Revolution
+358,47,Massachusets,Democracy,Alcohol & Tobacco,Family
+359,79,Massachusets,Economy,Farming,Alcohol & Tobacco
+360,20,South Carolina,Economy,Religion,Farming
+361,45,New York,Farming,French Revolution,Democracy
+362,26,New York,Economy,Family,Democracy
+363,68,South Carolina,Family,Alcohol & Tobacco,Religion
+364,29,Virginia,Democracy,Family,French Revolution
+365,30,Massachusets,Economy,Family,Alcohol & Tobacco
+366,73,Virginia,Alcohol & Tobacco,Religion,Economy
+367,68,Virginia,Family,Religion,Democracy
+368,38,New York,Democracy,Family,Farming
+369,65,New York,Farming,Democracy,Economy
+370,61,New York,Religion,Alcohol & Tobacco,Farming
+371,28,Virginia,French Revolution,Family,Democracy
+372,77,South Carolina,Farming,French Revolution,Family
+373,48,New York,Alcohol & Tobacco,Farming,Economy
+374,32,Massachusets,Religion,Family,Democracy
+375,22,South Carolina,Family,Alcohol & Tobacco,Democracy
+376,18,Virginia,Economy,Religion,Family
+377,57,South Carolina,Democracy,Farming,Religion
+378,23,Massachusets,Family,Democracy,Religion
+379,32,Massachusets,Alcohol & Tobacco,Economy,French Revolution
+380,48,Virginia,French Revolution,Democracy,Religion
+381,51,Massachusets,Religion,French Revolution,Farming
+382,19,New York,Family,Alcohol & Tobacco,French Revolution
+383,77,New York,Religion,Alcohol & Tobacco,Farming
+384,39,Virginia,Family,Alcohol & Tobacco,Religion
+385,78,New York,Alcohol & Tobacco,Economy,Family
+386,43,New York,Family,Economy,Religion
+387,61,Massachusets,Alcohol & Tobacco,Farming,Religion
+388,18,South Carolina,Farming,Family,Democracy
+389,79,New York,Democracy,Family,French Revolution
+390,61,South Carolina,Democracy,Economy,Religion
+391,78,New York,French Revolution,Economy,Farming
+392,34,Virginia,Family,French Revolution,Farming
+393,74,Massachusets,Democracy,Alcohol & Tobacco,Family
+394,43,Massachusets,French Revolution,Economy,Religion
+395,29,Virginia,Alcohol & Tobacco,Family,Economy
+396,76,Massachusets,Alcohol & Tobacco,Religion,Farming
+397,31,South Carolina,Democracy,Economy,Farming
+398,76,Massachusets,Economy,Alcohol & Tobacco,Religion
+399,69,Virginia,French Revolution,Farming,Democracy
+400,64,Massachusets,Farming,Economy,Religion
+401,19,New York,Family,Economy,Religion
+402,19,New York,Religion,Farming,Democracy
+403,72,Massachusets,Family,French Revolution,Religion
+404,54,New York,Democracy,Farming,Economy
+405,46,Virginia,Economy,Alcohol & Tobacco,Farming
+406,72,South Carolina,Religion,Farming,French Revolution
+407,40,New York,Alcohol & Tobacco,Family,Economy
+408,41,New York,Democracy,French Revolution,Farming
+409,43,New York,Economy,Family,Religion
+410,38,Massachusets,Religion,Alcohol & Tobacco,Economy
+411,36,Virginia,Farming,Religion,French Revolution
+412,21,South Carolina,Economy,French Revolution,Alcohol & Tobacco
+413,19,Massachusets,Religion,Family,Farming
+414,32,Virginia,Religion,Farming,Democracy
+415,73,South Carolina,French Revolution,Alcohol & Tobacco,Economy
+416,32,Massachusets,French Revolution,Alcohol & Tobacco,Religion
+417,18,New York,Family,Farming,Alcohol & Tobacco
+418,68,Massachusets,Democracy,Religion,Family
+419,75,New York,Democracy,Economy,Alcohol & Tobacco
+420,28,South Carolina,Family,Economy,Religion
+421,25,Massachusets,Alcohol & Tobacco,Economy,Religion
+422,28,South Carolina,Democracy,Alcohol & Tobacco,Economy
+423,73,South Carolina,Farming,Economy,Family
+424,20,Massachusets,Economy,Farming,Family
+425,79,South Carolina,French Revolution,Democracy,Religion
+426,20,South Carolina,French Revolution,Democracy,Economy
+427,72,Massachusets,Democracy,French Revolution,Economy
+428,58,New York,Economy,Farming,French Revolution
+429,72,Virginia,Religion,Family,Farming
+430,79,Massachusets,French Revolution,Religion,Alcohol & Tobacco
+431,35,South Carolina,Family,Alcohol & Tobacco,Religion
+432,39,South Carolina,French Revolution,Economy,Alcohol & Tobacco
+433,37,New York,Economy,Democracy,Religion
+434,47,New York,Alcohol & Tobacco,French Revolution,Democracy
+435,20,New York,French Revolution,Family,Economy
+436,54,South Carolina,Democracy,Economy,Alcohol & Tobacco
+437,21,New York,Family,Economy,Alcohol & Tobacco
+438,73,Massachusets,Democracy,Alcohol & Tobacco,Farming
+439,24,New York,Farming,Family,Alcohol & Tobacco
+440,69,Virginia,Religion,Alcohol & Tobacco,French Revolution
+441,19,Massachusets,Farming,Family,Alcohol & Tobacco
+442,39,New York,Economy,Religion,Family
+443,28,South Carolina,Family,French Revolution,Democracy
+444,37,Virginia,Economy,Family,Alcohol & Tobacco
+445,61,New York,Democracy,Alcohol & Tobacco,Economy
+446,42,South Carolina,Religion,Family,Economy
+447,58,Massachusets,Religion,Democracy,French Revolution
+448,27,Virginia,Family,Democracy,Economy
+449,74,New York,Farming,Religion,French Revolution
+450,52,New York,Economy,Farming,Family
+451,63,Massachusets,Religion,Family,Democracy
+452,49,Virginia,Economy,Religion,Alcohol & Tobacco
+453,56,South Carolina,Democracy,Alcohol & Tobacco,French Revolution
+454,53,South Carolina,Religion,French Revolution,Democracy
+455,30,Virginia,Economy,Family,Religion
+456,57,New York,Religion,Alcohol & Tobacco,Farming
+457,67,New York,French Revolution,Economy,Alcohol & Tobacco
+458,43,Massachusets,French Revolution,Family,Democracy
+459,43,South Carolina,Religion,French Revolution,Democracy
+460,21,South Carolina,Alcohol & Tobacco,Economy,French Revolution
+461,37,Massachusets,Religion,Economy,Alcohol & Tobacco
+462,27,South Carolina,French Revolution,Alcohol & Tobacco,Economy
+463,39,South Carolina,French Revolution,Farming,Family
+464,72,Virginia,Family,Economy,Religion
+465,70,South Carolina,Family,French Revolution,Religion
+466,70,Virginia,Democracy,Economy,Farming
+467,78,New York,Economy,Family,Alcohol & Tobacco
+468,75,South Carolina,Economy,Religion,Farming
+469,36,New York,Religion,French Revolution,Economy
+470,76,South Carolina,Economy,Religion,French Revolution
+471,68,South Carolina,Religion,Farming,Alcohol & Tobacco
+472,75,Virginia,Farming,Alcohol & Tobacco,Democracy
+473,50,New York,Farming,Family,Religion
+474,69,South Carolina,Alcohol & Tobacco,Economy,Family
+475,69,New York,Democracy,Alcohol & Tobacco,Economy
+476,75,New York,Religion,Family,Democracy
+477,41,South Carolina,Democracy,French Revolution,Economy
+478,58,Massachusets,French Revolution,Democracy,Alcohol & Tobacco
+479,64,New York,Religion,Farming,Alcohol & Tobacco
+480,59,Massachusets,Democracy,Farming,Alcohol & Tobacco
+481,26,Massachusets,Democracy,Farming,French Revolution
+482,63,Virginia,Farming,Family,French Revolution
+483,58,Massachusets,Farming,Alcohol & Tobacco,Family
+484,74,New York,Farming,Religion,Democracy
+485,40,Virginia,Religion,Farming,Alcohol & Tobacco
+486,67,South Carolina,Religion,Family,Democracy
+487,54,New York,Farming,Family,French Revolution
+488,26,South Carolina,Alcohol & Tobacco,Religion,Democracy
+489,74,South Carolina,Democracy,Alcohol & Tobacco,Economy
+490,23,Virginia,Economy,Alcohol & Tobacco,Family
+491,58,Virginia,Family,Alcohol & Tobacco,French Revolution
+492,60,New York,Democracy,Religion,Economy
+493,65,Massachusets,Democracy,Family,Alcohol & Tobacco
+494,23,South Carolina,Alcohol & Tobacco,Democracy,Religion
+495,63,Virginia,Alcohol & Tobacco,Farming,Family
+496,20,South Carolina,Religion,Democracy,Economy
+497,46,South Carolina,French Revolution,Alcohol & Tobacco,Economy
+498,73,South Carolina,Farming,French Revolution,Family
+499,23,South Carolina,Economy,Democracy,Religion
+500,71,Massachusets,Farming,Family,French Revolution
+501,28,Massachusets,Family,French Revolution,Alcohol & Tobacco
+502,72,New York,Farming,French Revolution,Economy
+503,29,New York,Democracy,French Revolution,Religion
+504,66,New York,French Revolution,Democracy,Alcohol & Tobacco
+505,24,New York,Economy,Family,French Revolution
+506,43,Virginia,French Revolution,Farming,Democracy
+507,38,South Carolina,Alcohol & Tobacco,Farming,Democracy
+508,60,New York,Religion,Democracy,Alcohol & Tobacco
+509,42,Massachusets,Religion,Economy,Alcohol & Tobacco
+510,55,Virginia,Farming,Family,Alcohol & Tobacco
+511,30,Massachusets,Family,Religion,Alcohol & Tobacco
+512,54,New York,Family,Religion,Economy
+513,53,New York,Economy,Alcohol & Tobacco,Religion
+514,65,Virginia,Alcohol & Tobacco,Farming,Religion
+515,44,Virginia,Religion,Economy,Democracy
+516,59,Virginia,Democracy,Alcohol & Tobacco,Religion
+517,32,New York,Democracy,Family,French Revolution
+518,73,Massachusets,Democracy,Family,Alcohol & Tobacco
+519,55,South Carolina,French Revolution,Religion,Economy
+520,29,Massachusets,Religion,Economy,Family
+521,37,New York,Democracy,Alcohol & Tobacco,French Revolution
+522,40,South Carolina,French Revolution,Economy,Family
+523,67,South Carolina,Alcohol & Tobacco,Religion,French Revolution
+524,43,Massachusets,French Revolution,Farming,Family
+525,54,Massachusets,Alcohol & Tobacco,Economy,Religion
+526,31,South Carolina,Alcohol & Tobacco,Family,Religion
+527,56,Massachusets,Alcohol & Tobacco,Farming,Economy
+528,69,Massachusets,Family,French Revolution,Religion
+529,57,Virginia,French Revolution,Economy,Religion
+530,21,New York,Religion,Family,Alcohol & Tobacco
+531,31,Virginia,Democracy,French Revolution,Religion
+532,52,South Carolina,Alcohol & Tobacco,French Revolution,Democracy
+533,67,South Carolina,Farming,Democracy,Economy
+534,70,South Carolina,Religion,Alcohol & Tobacco,Democracy
+535,27,Massachusets,Democracy,Family,Economy
+536,26,Massachusets,Democracy,Religion,Economy
+537,72,Massachusets,Economy,Religion,Farming
+538,46,New York,Democracy,Family,Economy
+539,79,Virginia,Family,Alcohol & Tobacco,French Revolution
+540,44,Massachusets,Alcohol & Tobacco,Economy,Religion
+541,50,Virginia,Democracy,Religion,Family
+542,19,Massachusets,Economy,Democracy,Religion
+543,69,South Carolina,French Revolution,Alcohol & Tobacco,Democracy
+544,29,Virginia,French Revolution,Democracy,Family
+545,70,New York,Democracy,Religion,Family
+546,63,Virginia,Farming,Economy,Religion
+547,18,Massachusets,Religion,Alcohol & Tobacco,Economy
+548,79,Massachusets,Democracy,Farming,Religion
+549,79,South Carolina,French Revolution,Democracy,Religion
+550,54,Massachusets,Farming,Democracy,Alcohol & Tobacco
+551,27,New York,Alcohol & Tobacco,Farming,Family
+552,52,New York,Alcohol & Tobacco,Democracy,Farming
+553,65,New York,Alcohol & Tobacco,Farming,Religion
+554,71,South Carolina,Family,Democracy,Religion
+555,33,Virginia,Family,French Revolution,Economy
+556,35,Virginia,Religion,Farming,Alcohol & Tobacco
+557,59,South Carolina,Religion,Alcohol & Tobacco,Democracy
+558,73,New York,Alcohol & Tobacco,Democracy,Family
+559,66,South Carolina,Economy,Family,French Revolution
+560,59,New York,Democracy,French Revolution,Farming
+561,69,Virginia,French Revolution,Democracy,Farming
+562,48,Virginia,Economy,Alcohol & Tobacco,Democracy
+563,55,South Carolina,Religion,French Revolution,Farming
+564,67,New York,French Revolution,Democracy,Farming
+565,69,New York,French Revolution,Farming,Alcohol & Tobacco
+566,23,Virginia,Farming,French Revolution,Economy
+567,52,Massachusets,Farming,Democracy,French Revolution
+568,34,Massachusets,Alcohol & Tobacco,Farming,Economy
+569,34,New York,Religion,Family,Farming
+570,55,Virginia,French Revolution,Religion,Family
+571,27,Virginia,French Revolution,Religion,Farming
+572,72,Massachusets,French Revolution,Family,Economy
+573,26,Virginia,Democracy,Alcohol & Tobacco,Family
+574,51,Virginia,Economy,Farming,Religion
+575,34,South Carolina,Farming,French Revolution,Alcohol & Tobacco
+576,45,Massachusets,Family,Alcohol & Tobacco,Religion
+577,43,South Carolina,French Revolution,Democracy,Alcohol & Tobacco
+578,45,Massachusets,Alcohol & Tobacco,Farming,French Revolution
+579,52,South Carolina,Economy,Religion,Alcohol & Tobacco
+580,41,New York,Alcohol & Tobacco,Religion,Economy
+581,26,Massachusets,Farming,Economy,French Revolution
+582,26,South Carolina,Religion,Alcohol & Tobacco,Economy
+583,78,Massachusets,Farming,Economy,French Revolution
+584,42,South Carolina,Religion,Alcohol & Tobacco,Family
+585,71,Massachusets,Economy,Alcohol & Tobacco,Religion
+586,56,Virginia,Democracy,Farming,Religion
+587,51,South Carolina,French Revolution,Economy,Democracy
+588,34,New York,French Revolution,Family,Farming
+589,31,Virginia,Family,Alcohol & Tobacco,Religion
+590,68,Virginia,Family,Economy,Farming
+591,56,New York,Economy,Alcohol & Tobacco,Farming
+592,26,Virginia,Religion,Democracy,Farming
+593,57,New York,Religion,Economy,Family
+594,41,Virginia,Family,Religion,Democracy
+595,32,Virginia,Family,Farming,French Revolution
+596,43,New York,Democracy,Economy,French Revolution
+597,18,Virginia,Family,Economy,French Revolution
+598,37,Virginia,Family,Alcohol & Tobacco,Religion
+599,18,New York,Religion,Economy,French Revolution
+600,62,New York,Family,Religion,Alcohol & Tobacco
+601,38,New York,Farming,Economy,French Revolution
+602,23,Massachusets,Family,Farming,Economy
+603,68,South Carolina,Farming,Alcohol & Tobacco,French Revolution
+604,56,New York,Democracy,Religion,Alcohol & Tobacco
+605,29,South Carolina,Democracy,Economy,Farming
+606,78,Massachusets,Democracy,Farming,Alcohol & Tobacco
+607,63,South Carolina,Farming,Alcohol & Tobacco,Religion
+608,27,Massachusets,French Revolution,Family,Farming
+609,49,New York,Farming,Religion,Democracy
+610,41,Virginia,Alcohol & Tobacco,Farming,French Revolution
+611,77,New York,Farming,Economy,Religion
+612,76,Massachusets,Religion,Democracy,Economy
+613,37,Virginia,Farming,Democracy,French Revolution
+614,60,South Carolina,Economy,Farming,Alcohol & Tobacco
+615,74,Massachusets,Religion,French Revolution,Alcohol & Tobacco
+616,74,Massachusets,French Revolution,Family,Alcohol & Tobacco
+617,75,Virginia,Alcohol & Tobacco,Religion,Farming
+618,31,New York,Religion,Farming,French Revolution
+619,42,New York,Religion,Alcohol & Tobacco,Democracy
+620,20,New York,Farming,French Revolution,Alcohol & Tobacco
+621,66,Virginia,Alcohol & Tobacco,Religion,French Revolution
+622,66,New York,Religion,Family,French Revolution
+623,65,Virginia,Democracy,Farming,Religion
+624,43,Massachusets,Democracy,Alcohol & Tobacco,French Revolution
+625,38,South Carolina,French Revolution,Farming,Economy
+626,68,Virginia,Religion,Economy,Family
+627,64,Virginia,French Revolution,Alcohol & Tobacco,Democracy
+628,67,Virginia,Alcohol & Tobacco,French Revolution,Democracy
+629,68,Massachusets,Farming,Alcohol & Tobacco,Economy
+630,73,Virginia,Family,Alcohol & Tobacco,French Revolution
+631,72,New York,Religion,French Revolution,Economy
+632,61,Massachusets,French Revolution,Religion,Alcohol & Tobacco
+633,66,Virginia,French Revolution,Farming,Democracy
+634,49,Virginia,French Revolution,Alcohol & Tobacco,Democracy
+635,41,New York,Family,Farming,Religion
+636,46,New York,French Revolution,Democracy,Family
+637,34,Virginia,Farming,Democracy,French Revolution
+638,67,South Carolina,Religion,French Revolution,Family
+639,22,Massachusets,Democracy,Farming,Religion
+640,52,South Carolina,Economy,Alcohol & Tobacco,French Revolution
+641,34,Virginia,Religion,Economy,Family
+642,78,South Carolina,Democracy,Family,Farming
+643,36,New York,Alcohol & Tobacco,Economy,Democracy
+644,23,Massachusets,Democracy,Family,Economy
+645,61,South Carolina,Economy,French Revolution,Religion
+646,25,Virginia,Democracy,Economy,Farming
+647,61,South Carolina,French Revolution,Economy,Democracy
+648,49,Massachusets,Democracy,French Revolution,Economy
+649,61,Massachusets,Religion,Democracy,Economy
+650,64,South Carolina,French Revolution,Family,Farming
+651,75,Virginia,Family,Alcohol & Tobacco,Religion
+652,55,Massachusets,Farming,Economy,Religion
+653,28,Massachusets,Farming,Alcohol & Tobacco,Family
+654,35,South Carolina,French Revolution,Economy,Alcohol & Tobacco
+655,49,Virginia,Alcohol & Tobacco,Democracy,Economy
+656,27,New York,Farming,Democracy,Economy
+657,23,Virginia,Alcohol & Tobacco,Economy,French Revolution
+658,71,New York,Family,Economy,Farming
+659,79,South Carolina,French Revolution,Religion,Farming
+660,59,South Carolina,Religion,French Revolution,Economy
+661,48,New York,Religion,French Revolution,Alcohol & Tobacco
+662,62,Massachusets,Economy,French Revolution,Religion
+663,49,New York,Family,French Revolution,Democracy
+664,79,South Carolina,Farming,Religion,Economy
+665,26,Virginia,Alcohol & Tobacco,Family,Farming
+666,27,Massachusets,Religion,French Revolution,Farming
+667,56,South Carolina,Economy,Democracy,French Revolution
+668,65,New York,Alcohol & Tobacco,Farming,Democracy
+669,39,New York,Democracy,Alcohol & Tobacco,Family
+670,75,Virginia,Religion,Economy,Democracy
+671,43,Massachusets,Farming,Religion,Democracy
+672,36,South Carolina,Democracy,Economy,Religion
+673,37,New York,Alcohol & Tobacco,Democracy,French Revolution
+674,75,Virginia,French Revolution,Family,Religion
+675,19,New York,Economy,Democracy,Farming
+676,19,South Carolina,French Revolution,Democracy,Religion
+677,64,Virginia,Farming,Family,Religion
+678,45,South Carolina,French Revolution,Alcohol & Tobacco,Economy
+679,52,Massachusets,French Revolution,Family,Farming
+680,62,Virginia,Religion,Farming,Economy
+681,43,New York,Democracy,French Revolution,Alcohol & Tobacco
+682,44,Virginia,Economy,Family,French Revolution
+683,67,South Carolina,Economy,Farming,Democracy
+684,44,New York,Farming,French Revolution,Democracy
+685,47,Massachusets,Family,Democracy,Religion
+686,52,Massachusets,Religion,Democracy,Farming
+687,54,New York,French Revolution,Alcohol & Tobacco,Religion
+688,30,New York,Economy,Farming,Democracy
+689,68,Massachusets,Family,Democracy,French Revolution
+690,22,Massachusets,French Revolution,Family,Farming
+691,26,Virginia,Farming,Economy,Democracy
+692,19,Massachusets,Alcohol & Tobacco,Democracy,Religion
+693,18,New York,Alcohol & Tobacco,Farming,Economy
+694,72,Virginia,French Revolution,Alcohol & Tobacco,Democracy
+695,51,Virginia,Farming,Family,Democracy
+696,74,Massachusets,French Revolution,Alcohol & Tobacco,Family
+697,56,Virginia,French Revolution,Alcohol & Tobacco,Farming
+698,43,New York,Religion,Economy,Family
+699,26,Virginia,Economy,Farming,Democracy
+700,44,Virginia,French Revolution,Farming,Economy
+701,73,South Carolina,Alcohol & Tobacco,French Revolution,Democracy
+702,50,Massachusets,Alcohol & Tobacco,Family,Religion
+703,25,Virginia,Economy,French Revolution,Family
+704,63,Virginia,Alcohol & Tobacco,Family,French Revolution
+705,54,Virginia,Economy,Family,Alcohol & Tobacco
+706,62,New York,French Revolution,Democracy,Economy
+707,18,South Carolina,Religion,French Revolution,Farming
+708,72,Massachusets,Family,Democracy,Farming
+709,19,South Carolina,French Revolution,Religion,Alcohol & Tobacco
+710,63,New York,Alcohol & Tobacco,Democracy,Religion
+711,27,Massachusets,Farming,Economy,Democracy
+712,36,New York,Farming,Alcohol & Tobacco,Economy
+713,62,Massachusets,Alcohol & Tobacco,French Revolution,Religion
+714,25,New York,French Revolution,Alcohol & Tobacco,Economy
+715,67,Massachusets,Democracy,French Revolution,Farming
+716,67,Virginia,Farming,French Revolution,Alcohol & Tobacco
+717,28,New York,French Revolution,Democracy,Family
+718,70,Massachusets,French Revolution,Religion,Democracy
+719,70,Virginia,Economy,Alcohol & Tobacco,Family
+720,32,Massachusets,Family,Economy,Farming
+721,43,Massachusets,Family,Democracy,Economy
+722,33,South Carolina,Religion,French Revolution,Farming
+723,45,South Carolina,Economy,Alcohol & Tobacco,Democracy
+724,28,South Carolina,Farming,French Revolution,Family
+725,69,Massachusets,Family,Economy,Religion
+726,31,Virginia,Economy,Democracy,Religion
+727,29,South Carolina,Economy,Family,Religion
+728,63,South Carolina,Family,Alcohol & Tobacco,Economy
+729,53,Massachusets,Economy,Democracy,Religion
+730,37,New York,Democracy,Economy,Alcohol & Tobacco
+731,37,Massachusets,Farming,Religion,Family
+732,46,South Carolina,Alcohol & Tobacco,Religion,Farming
+733,52,New York,Family,Economy,Farming
+734,52,New York,Alcohol & Tobacco,Religion,Economy
+735,31,South Carolina,Democracy,Farming,Family
+736,50,Virginia,Alcohol & Tobacco,Family,French Revolution
+737,63,New York,French Revolution,Family,Alcohol & Tobacco
+738,77,Virginia,Farming,Democracy,Alcohol & Tobacco
+739,73,South Carolina,Religion,Family,Economy
+740,25,Virginia,Family,French Revolution,Farming
+741,61,Virginia,Democracy,Religion,Economy
+742,59,Massachusets,Farming,Alcohol & Tobacco,Democracy
+743,50,New York,Family,Alcohol & Tobacco,Democracy
+744,63,New York,Family,Economy,Democracy
+745,63,Virginia,Family,French Revolution,Democracy
+746,18,Massachusets,French Revolution,Democracy,Family
+747,46,Massachusets,Farming,Religion,Family
+748,20,South Carolina,Religion,Economy,Family
+749,59,Virginia,Family,Democracy,Alcohol & Tobacco
+750,79,New York,Economy,French Revolution,Farming
+751,38,Virginia,Farming,Family,Economy
+752,53,Massachusets,Family,Economy,Farming
+753,68,Virginia,Democracy,Religion,Farming
+754,79,New York,Democracy,Family,French Revolution
+755,27,Massachusets,Family,French Revolution,Alcohol & Tobacco
+756,80,South Carolina,Alcohol & Tobacco,Farming,Economy
+757,44,Virginia,Alcohol & Tobacco,Family,Religion
+758,36,Virginia,Democracy,Religion,Alcohol & Tobacco
+759,40,Virginia,Farming,French Revolution,Family
+760,20,New York,Family,Democracy,Farming
+761,79,South Carolina,Religion,Farming,Alcohol & Tobacco
+762,28,South Carolina,Economy,Democracy,Family
+763,33,Massachusets,French Revolution,Family,Alcohol & Tobacco
+764,74,South Carolina,Family,Alcohol & Tobacco,Economy
+765,70,Virginia,Democracy,Economy,Farming
+766,58,South Carolina,Farming,Economy,Democracy
+767,76,Massachusets,French Revolution,Farming,Religion
+768,72,South Carolina,Family,Farming,Alcohol & Tobacco
+769,49,South Carolina,French Revolution,Farming,Family
+770,60,South Carolina,Democracy,Religion,Farming
+771,24,South Carolina,French Revolution,Democracy,Alcohol & Tobacco
+772,67,South Carolina,Democracy,Alcohol & Tobacco,Economy
+773,49,South Carolina,Religion,Alcohol & Tobacco,Economy
+774,24,Massachusets,French Revolution,Farming,Religion
+775,79,Massachusets,Religion,Alcohol & Tobacco,Economy
+776,61,New York,Alcohol & Tobacco,Farming,Family
+777,59,Virginia,French Revolution,Religion,Farming
+778,45,Massachusets,Economy,Democracy,Alcohol & Tobacco
+779,79,South Carolina,Farming,Alcohol & Tobacco,Democracy
+780,28,South Carolina,Farming,Economy,Democracy
+781,60,Massachusets,Farming,Alcohol & Tobacco,French Revolution
+782,33,Massachusets,Religion,French Revolution,Alcohol & Tobacco
+783,23,New York,Religion,Family,French Revolution
+784,49,Virginia,Family,Religion,French Revolution
+785,62,New York,French Revolution,Democracy,Farming
+786,69,Massachusets,Democracy,Family,Religion
+787,78,Massachusets,Alcohol & Tobacco,French Revolution,Economy
+788,76,South Carolina,French Revolution,Family,Farming
+789,31,Virginia,French Revolution,Family,Economy
+790,19,Massachusets,Democracy,Economy,Farming
+791,63,South Carolina,Farming,Democracy,French Revolution
+792,75,Massachusets,Alcohol & Tobacco,Economy,Farming
+793,29,South Carolina,Democracy,French Revolution,Alcohol & Tobacco
+794,19,Virginia,Democracy,Economy,Alcohol & Tobacco
+795,76,Virginia,Alcohol & Tobacco,Farming,French Revolution
+796,29,Virginia,Alcohol & Tobacco,Religion,Economy
+797,60,New York,Democracy,Farming,French Revolution
+798,31,New York,Family,Religion,Farming
+799,23,Virginia,Alcohol & Tobacco,Democracy,Farming
+800,77,New York,Alcohol & Tobacco,Farming,French Revolution
+801,56,New York,Family,Religion,Economy
+802,57,Massachusets,Farming,Economy,Alcohol & Tobacco
+803,74,Virginia,Family,Farming,French Revolution
+804,68,New York,Democracy,Family,French Revolution
+805,49,South Carolina,Economy,Democracy,French Revolution
+806,28,Virginia,French Revolution,Economy,Farming
+807,47,New York,Alcohol & Tobacco,Democracy,Religion
+808,63,Massachusets,Democracy,Alcohol & Tobacco,Economy
+809,48,Massachusets,Farming,Religion,Family
+810,69,New York,Democracy,French Revolution,Farming
+811,40,Virginia,Family,Alcohol & Tobacco,Farming
+812,51,Massachusets,Family,Farming,Economy
+813,67,Virginia,Economy,Religion,Alcohol & Tobacco
+814,69,Massachusets,French Revolution,Family,Alcohol & Tobacco
+815,31,Massachusets,Democracy,Alcohol & Tobacco,Family
+816,60,Massachusets,Democracy,French Revolution,Family
+817,77,South Carolina,Family,French Revolution,Alcohol & Tobacco
+818,73,South Carolina,Alcohol & Tobacco,French Revolution,Religion
+819,58,Virginia,Democracy,Economy,Alcohol & Tobacco
+820,42,New York,Alcohol & Tobacco,Religion,Economy
+821,71,South Carolina,Alcohol & Tobacco,Religion,Family
+822,33,Massachusets,Alcohol & Tobacco,Family,French Revolution
+823,48,Massachusets,Farming,French Revolution,Family
+824,46,Massachusets,Democracy,Religion,Alcohol & Tobacco
+825,37,South Carolina,Farming,Alcohol & Tobacco,Democracy
+826,20,Massachusets,Economy,French Revolution,Family
+827,43,South Carolina,Economy,Religion,Alcohol & Tobacco
+828,51,Virginia,Democracy,Economy,Alcohol & Tobacco
+829,61,New York,Farming,Alcohol & Tobacco,Democracy
+830,80,Virginia,Democracy,Farming,Religion
+831,59,New York,Family,Economy,Alcohol & Tobacco
+832,73,South Carolina,Farming,Economy,Democracy
+833,69,Massachusets,Farming,Religion,Family
+834,70,South Carolina,Religion,Alcohol & Tobacco,Democracy
+835,20,South Carolina,Farming,Family,Democracy
+836,78,New York,Economy,Farming,Family
+837,21,New York,French Revolution,Alcohol & Tobacco,Democracy
+838,73,Massachusets,French Revolution,Alcohol & Tobacco,Democracy
+839,73,Massachusets,Family,Religion,Farming
+840,48,South Carolina,Democracy,French Revolution,Farming
+841,40,South Carolina,Family,Democracy,French Revolution
+842,64,Massachusets,Family,Economy,Farming
+843,74,South Carolina,Family,French Revolution,Religion
+844,30,New York,Alcohol & Tobacco,Economy,Religion
+845,41,South Carolina,Alcohol & Tobacco,Economy,Religion
+846,33,Massachusets,Democracy,Family,Farming
+847,58,Massachusets,Economy,Family,Alcohol & Tobacco
+848,52,South Carolina,French Revolution,Democracy,Alcohol & Tobacco
+849,63,South Carolina,Democracy,Farming,Alcohol & Tobacco
+850,42,South Carolina,French Revolution,Democracy,Farming
+851,27,New York,Family,Religion,Democracy
+852,52,Virginia,Democracy,Religion,Farming
+853,62,Virginia,Democracy,Farming,Alcohol & Tobacco
+854,60,Virginia,Farming,Economy,French Revolution
+855,48,South Carolina,Democracy,Family,Religion
+856,58,South Carolina,Democracy,Religion,French Revolution
+857,60,Massachusets,French Revolution,Family,Farming
+858,52,New York,Family,Religion,French Revolution
+859,32,South Carolina,Farming,Alcohol & Tobacco,Democracy
+860,21,Virginia,Religion,French Revolution,Family
+861,41,South Carolina,Farming,French Revolution,Family
+862,58,South Carolina,Alcohol & Tobacco,French Revolution,Democracy
+863,57,Virginia,Democracy,Family,Alcohol & Tobacco
+864,72,South Carolina,Religion,Democracy,Farming
+865,65,New York,Farming,Democracy,Alcohol & Tobacco
+866,70,Virginia,Economy,Democracy,Alcohol & Tobacco
+867,75,New York,Religion,Democracy,Economy
+868,49,South Carolina,Alcohol & Tobacco,Religion,Farming
+869,75,New York,Democracy,Religion,French Revolution
+870,77,Massachusets,French Revolution,Family,Democracy
+871,56,Massachusets,French Revolution,Farming,Family
+872,33,New York,Religion,Family,Farming
+873,47,Virginia,Economy,Alcohol & Tobacco,French Revolution
+874,29,Virginia,Farming,French Revolution,Economy
+875,20,Virginia,Alcohol & Tobacco,Economy,Democracy
+876,26,South Carolina,Religion,French Revolution,Democracy
+877,42,New York,Farming,Alcohol & Tobacco,Economy
+878,33,Virginia,Religion,Economy,Alcohol & Tobacco
+879,52,South Carolina,Family,Economy,Democracy
+880,67,New York,Alcohol & Tobacco,Democracy,French Revolution
+881,40,Massachusets,French Revolution,Alcohol & Tobacco,Democracy
+882,79,Virginia,French Revolution,Family,Alcohol & Tobacco
+883,71,Massachusets,Farming,Democracy,Economy
+884,60,South Carolina,Economy,Religion,Family
+885,48,South Carolina,Farming,Alcohol & Tobacco,Economy
+886,31,Virginia,Farming,Economy,Religion
+887,77,Virginia,Farming,Family,Economy
+888,57,Virginia,French Revolution,Family,Democracy
+889,38,New York,French Revolution,Religion,Alcohol & Tobacco
+890,32,New York,Alcohol & Tobacco,French Revolution,Religion
+891,75,South Carolina,Democracy,French Revolution,Economy
+892,80,South Carolina,Economy,French Revolution,Farming
+893,34,New York,Religion,Farming,French Revolution
+894,74,South Carolina,Alcohol & Tobacco,Democracy,Family
+895,42,Virginia,French Revolution,Religion,Farming
+896,37,Virginia,Religion,Family,Alcohol & Tobacco
+897,42,New York,Alcohol & Tobacco,Family,Economy
+898,49,Virginia,French Revolution,Religion,Farming
+899,47,Massachusets,Religion,Democracy,Family
+900,21,Virginia,Farming,Economy,Democracy
+901,64,South Carolina,French Revolution,Religion,Family
+902,24,South Carolina,Democracy,Economy,Alcohol & Tobacco
+903,65,New York,Economy,French Revolution,Family
+904,69,New York,French Revolution,Alcohol & Tobacco,Family
+905,40,New York,Alcohol & Tobacco,Farming,Religion
+906,41,Massachusets,Family,Farming,Alcohol & Tobacco
+907,79,Massachusets,Economy,Democracy,Family
+908,79,Virginia,Religion,Family,Economy
+909,19,South Carolina,French Revolution,Democracy,Farming
+910,19,New York,Religion,French Revolution,Alcohol & Tobacco
+911,29,New York,Religion,Economy,Democracy
+912,36,Massachusets,Religion,Economy,Farming
+913,62,Massachusets,Alcohol & Tobacco,Economy,Farming
+914,61,Virginia,Economy,Democracy,Farming
+915,76,South Carolina,Democracy,Farming,Alcohol & Tobacco
+916,31,Massachusets,French Revolution,Democracy,Farming
+917,73,Virginia,Religion,Family,Farming
+918,29,Massachusets,Religion,French Revolution,Farming
+919,19,New York,Farming,Family,French Revolution
+920,73,South Carolina,Religion,Democracy,Farming
+921,19,Massachusets,Democracy,Farming,Economy
+922,38,New York,French Revolution,Democracy,Economy
+923,40,Massachusets,Religion,Alcohol & Tobacco,Family
+924,21,New York,Alcohol & Tobacco,Democracy,Farming
+925,51,Virginia,Democracy,French Revolution,Alcohol & Tobacco
+926,62,Virginia,Family,Religion,French Revolution
+927,49,South Carolina,French Revolution,Economy,Alcohol & Tobacco
+928,37,South Carolina,Alcohol & Tobacco,Economy,Family
+929,68,New York,Alcohol & Tobacco,Religion,Democracy
+930,53,South Carolina,Family,Democracy,Religion
+931,38,New York,Economy,Family,Religion
